@@ -70,7 +70,7 @@ pip install -r requirements.txt
 export GROQ_API_KEY="your_groq_api_key_here"
 
 # 4. Launch the Streamlit app
-streamlit run app.py
+streamlit run streamlit_app.py
 
 
 ## 6. Future Roadmap (v2)
