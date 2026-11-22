@@ -46,6 +46,8 @@ To validate core value quickly, the MVP was scoped to **3 core features** with s
                          ▼
      [Streamlit UI: Ranked Ideas + "Why It Fits" Cards]
 
+<img width="1157" height="537" alt="image" src="https://github.com/user-attachments/assets/d2882ec1-ff9f-4699-8c3b-a385a6b6213b" />
+
 
 
 ## 4. Validation & Metrics
